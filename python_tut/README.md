@@ -1,1 +1,1 @@
-print None
+python -e "print None"
